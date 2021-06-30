@@ -1,0 +1,174 @@
+.Kubernetes{
+  background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  
+}
+
+.Kubernetes:hover{
+  background-color: green; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+.element{
+   
+  background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+  .element:hover {
+  background-color: green; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  }
+  .elements{
+   
+    background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+  .elements:hover {
+    background-color: green; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+.output-screen{
+  background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+   }
+
+.launch-pod{
+  background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn {
+  background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.launch-deploy{
+  background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.del-pod{
+  background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.scale-deploy{
+  background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+}
+
+.del-deploy{
+  background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.expose-deploy {
+  	
+  background-color: white; /* Green */
+  border: 2px solid green;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+
+
+
+    
